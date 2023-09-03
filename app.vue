@@ -5,7 +5,7 @@
       <div class="container mx-auto">
         <div class="flex items-center">
           <img
-            src="https://scontent.fpnh5-5.fna.fbcdn.net/v/t39.30808-6/370567086_703693364913606_2397925962208215234_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=R02srbZtjPgAX_U0RhC&_nc_ht=scontent.fpnh5-5.fna&oh=00_AfDUKiIfgPN4qjMhwa2kDKiXEKwf0317maBq5dfdV-yy5Q&oe=64F49B61"
+            src="https://avatars.githubusercontent.com/u/110383694?s=400&u=a8ea7df469099d3d9844bc30af0f56dd1e004b9a&v=4"
             alt="Profile Image" class="w-32 h-32 rounded-full">
           <div class="ml-4">
             <h1 class="text-3xl font-bold">
@@ -23,7 +23,7 @@
         <h2 class="text-2xl font-bold mb-4 text-center">My Profile</h2>
         <div class="flex justify-center">
           <img
-            src="https://scontent.fpnh5-5.fna.fbcdn.net/v/t39.30808-6/370567086_703693364913606_2397925962208215234_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=R02srbZtjPgAX_U0RhC&_nc_ht=scontent.fpnh5-5.fna&oh=00_AfDUKiIfgPN4qjMhwa2kDKiXEKwf0317maBq5dfdV-yy5Q&oe=64F49B61"
+            src="https://avatars.githubusercontent.com/u/110383694?s=400&u=a8ea7df469099d3d9844bc30af0f56dd1e004b9a&v=4"
             alt="Profile Image" class="w-32 h-32 rounded-full">
         </div>
         <div class="text-center mt-4">
@@ -71,7 +71,7 @@
           <div class="bg-gray-200 p-4 rounded-lg shadow-md">
             <h3 class="text-xl font-semibold">Project 1</h3>
             <img
-              src="https://scontent.fpnh5-5.fna.fbcdn.net/v/t39.30808-6/370567086_703693364913606_2397925962208215234_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=R02srbZtjPgAX_U0RhC&_nc_ht=scontent.fpnh5-5.fna&oh=00_AfDUKiIfgPN4qjMhwa2kDKiXEKwf0317maBq5dfdV-yy5Q&oe=64F49B61"
+              src="https://avatars.githubusercontent.com/u/110383694?s=400&u=a8ea7df469099d3d9844bc30af0f56dd1e004b9a&v=4"
               alt="Project 1 Image" class="w-full h-auto mt-2">
             <p class="text-gray-700 mt-2">
               [Description of Project 1]
@@ -80,7 +80,7 @@
           <div class="bg-gray-200 p-4 rounded-lg shadow-md">
             <h3 class="text-xl font-semibold">Project 1</h3>
             <img
-              src="https://scontent.fpnh5-4.fna.fbcdn.net/v/t39.30808-6/370626212_704731008143175_7420270604284996242_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=52f669&_nc_ohc=t8mU7so-a54AX92p9Lg&_nc_ht=scontent.fpnh5-4.fna&oh=00_AfAm8ggkOupjgvHI7N5Sj65Ql0IT_WomKYp-qNR2tKz50A&oe=64F3EA8D"
+              src="https://avatars.githubusercontent.com/u/110383694?s=400&u=a8ea7df469099d3d9844bc30af0f56dd1e004b9a&v=4"
               alt="Project 1 Image" class="w-full h-auto mt-2">
             <p class="text-gray-700 mt-2">
               [Description of Project 1]
@@ -89,7 +89,7 @@
           <div class="bg-gray-200 p-4 rounded-lg shadow-md">
             <h3 class="text-xl font-semibold">Project 1</h3>
             <img
-              src="https://scontent.fpnh5-4.fna.fbcdn.net/v/t39.30808-6/370626212_704731008143175_7420270604284996242_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=52f669&_nc_ohc=t8mU7so-a54AX92p9Lg&_nc_ht=scontent.fpnh5-4.fna&oh=00_AfAm8ggkOupjgvHI7N5Sj65Ql0IT_WomKYp-qNR2tKz50A&oe=64F3EA8D"
+              src="https://avatars.githubusercontent.com/u/110383694?s=400&u=a8ea7df469099d3d9844bc30af0f56dd1e004b9a&v=4"
               alt="Project 1 Image" class="w-full h-auto mt-2">
             <p class="text-gray-700 mt-2">
               [Description of Project 1]
@@ -98,7 +98,7 @@
           <div class="bg-gray-200 p-4 rounded-lg shadow-md">
             <h3 class="text-xl font-semibold">Project 1</h3>
             <img
-              src="https://scontent.fpnh5-4.fna.fbcdn.net/v/t39.30808-6/370626212_704731008143175_7420270604284996242_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=52f669&_nc_ohc=t8mU7so-a54AX92p9Lg&_nc_ht=scontent.fpnh5-4.fna&oh=00_AfAm8ggkOupjgvHI7N5Sj65Ql0IT_WomKYp-qNR2tKz50A&oe=64F3EA8D"
+              src="https://avatars.githubusercontent.com/u/110383694?s=400&u=a8ea7df469099d3d9844bc30af0f56dd1e004b9a&v=4"
               alt="Project 1 Image" class="w-full h-auto mt-2">
             <p class="text-gray-700 mt-2">
               [Description of Project 1]
@@ -107,7 +107,7 @@
           <div class="bg-gray-200 p-4 rounded-lg shadow-md">
             <h3 class="text-xl font-semibold">Project 1</h3>
             <img
-              src="https://scontent.fpnh5-4.fna.fbcdn.net/v/t39.30808-6/352235550_1229877214333861_8875645456399175363_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1b51e3&_nc_ohc=v_JdbZaz9tUAX-z527w&_nc_ht=scontent.fpnh5-4.fna&oh=00_AfCIV8GO0mXFPOcow5dRRQh1Yh-nxMV2u_4lavfrQ5ukHQ&oe=64F4BF22"
+              src="https://avatars.githubusercontent.com/u/110383694?s=400&u=a8ea7df469099d3d9844bc30af0f56dd1e004b9a&v=4"
               alt="Project 1 Image" class="w-full h-auto mt-2">
             <p class="text-gray-700 mt-2">
               [Description of Project 1]
@@ -116,7 +116,7 @@
           <div class="bg-gray-200 p-4 rounded-lg shadow-md">
             <h3 class="text-xl font-semibold">Project 1</h3>
             <img
-              src="https://scontent.fpnh5-4.fna.fbcdn.net/v/t39.30808-6/370626212_704731008143175_7420270604284996242_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=52f669&_nc_ohc=t8mU7so-a54AX92p9Lg&_nc_ht=scontent.fpnh5-4.fna&oh=00_AfAm8ggkOupjgvHI7N5Sj65Ql0IT_WomKYp-qNR2tKz50A&oe=64F3EA8D"
+              src="https://avatars.githubusercontent.com/u/110383694?s=400&u=a8ea7df469099d3d9844bc30af0f56dd1e004b9a&v=4"
               alt="Project 1 Image" class="w-full h-auto mt-2">
             <p class="text-gray-700 mt-2">
               [Description of Project 1]
@@ -125,7 +125,7 @@
           <div class="bg-gray-200 p-4 rounded-lg shadow-md">
             <h3 class="text-xl font-semibold">Project 1</h3>
             <img
-              src="https://scontent.fpnh5-2.fna.fbcdn.net/v/t39.30808-6/340635309_928484055083974_3930593728253721520_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=1b51e3&_nc_ohc=h_cOVUs8ojYAX-9uYjG&_nc_ht=scontent.fpnh5-2.fna&oh=00_AfDwXHF5jCh7CWTum2dKDeRQXD1DZWErEQuAMYT_yeMPGw&oe=64F3877F"
+              src="https://avatars.githubusercontent.com/u/110383694?s=400&u=a8ea7df469099d3d9844bc30af0f56dd1e004b9a&v=4"
               alt="Project 1 Image" class="w-full h-auto mt-2">
             <p class="text-gray-700 mt-2">
               [Description of Project 1]
@@ -134,7 +134,7 @@
           <div class="bg-gray-200 p-4 rounded-lg shadow-md">
             <h3 class="text-xl font-semibold">Project 1</h3>
             <img
-              src="https://scontent.fpnh5-2.fna.fbcdn.net/v/t39.30808-6/365811595_693751155907827_6993819680295679773_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=1b51e3&_nc_ohc=GC6V3SUQZD4AX_06Jng&_nc_ht=scontent.fpnh5-2.fna&oh=00_AfCeqB8UJtsYHSulvpTe9enZkKv70R_0yz9KrUrhZs2DyQ&oe=64F4100B"
+              src="https://avatars.githubusercontent.com/u/110383694?s=400&u=a8ea7df469099d3d9844bc30af0f56dd1e004b9a&v=4"
               alt="Project 1 Image" class="w-full h-auto mt-2">
             <p class="text-gray-700 mt-2">
               [Description of Project 1]
@@ -143,7 +143,7 @@
           <div class="bg-gray-200 p-4 rounded-lg shadow-md">
             <h3 class="text-xl font-semibold">Project 1</h3>
             <img
-              src="https://scontent.fpnh5-4.fna.fbcdn.net/v/t39.30808-6/370626212_704731008143175_7420270604284996242_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=52f669&_nc_ohc=t8mU7so-a54AX92p9Lg&_nc_ht=scontent.fpnh5-4.fna&oh=00_AfAm8ggkOupjgvHI7N5Sj65Ql0IT_WomKYp-qNR2tKz50A&oe=64F3EA8D"
+              src="https://avatars.githubusercontent.com/u/110383694?s=400&u=a8ea7df469099d3d9844bc30af0f56dd1e004b9a&v=4"
               alt="Project 1 Image" class="w-full h-auto mt-2">
             <p class="text-gray-700 mt-2">
               [Description of Project 1]
@@ -152,7 +152,7 @@
           <div class="bg-gray-200 p-4 rounded-lg shadow-md">
             <h3 class="text-xl font-semibold">Project 1</h3>
             <img
-              src="https://scontent.fpnh5-4.fna.fbcdn.net/v/t39.30808-6/370626212_704731008143175_7420270604284996242_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=52f669&_nc_ohc=t8mU7so-a54AX92p9Lg&_nc_ht=scontent.fpnh5-4.fna&oh=00_AfAm8ggkOupjgvHI7N5Sj65Ql0IT_WomKYp-qNR2tKz50A&oe=64F3EA8D"
+              src="https://avatars.githubusercontent.com/u/110383694?s=400&u=a8ea7df469099d3d9844bc30af0f56dd1e004b9a&v=4"
               alt="Project 1 Image" class="w-full h-auto mt-2">
             <p class="text-gray-700 mt-2">
               [Description of Project 1]
@@ -161,7 +161,7 @@
           <div class="bg-gray-200 p-4 rounded-lg shadow-md">
             <h3 class="text-xl font-semibold">Project 1</h3>
             <img
-              src="https://scontent.fpnh5-2.fna.fbcdn.net/v/t39.30808-6/371546525_705257704757172_8471433382776038338_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5614bc&_nc_ohc=QxjHinfDLykAX-KrWCw&_nc_ht=scontent.fpnh5-2.fna&oh=00_AfCkOpFMUQS2Nbypze-z0j33M_jF5v1izN85dkkmgSJwuA&oe=64F40DEA"
+              src="https://avatars.githubusercontent.com/u/110383694?s=400&u=a8ea7df469099d3d9844bc30af0f56dd1e004b9a&v=4"
               alt="Project 1 Image" class="w-full h-auto mt-2">
             <p class="text-gray-700 mt-2">
               [Description of Project 1]
@@ -170,7 +170,7 @@
           <div class="bg-gray-200 p-4 rounded-lg shadow-md">
             <h3 class="text-xl font-semibold">Project 1</h3>
             <img
-              src="https://scontent.fpnh5-4.fna.fbcdn.net/v/t39.30808-6/370626212_704731008143175_7420270604284996242_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=52f669&_nc_ohc=t8mU7so-a54AX92p9Lg&_nc_ht=scontent.fpnh5-4.fna&oh=00_AfAm8ggkOupjgvHI7N5Sj65Ql0IT_WomKYp-qNR2tKz50A&oe=64F3EA8D"
+              src="https://avatars.githubusercontent.com/u/110383694?s=400&u=a8ea7df469099d3d9844bc30af0f56dd1e004b9a&v=4"
               alt="Project 1 Image" class="w-full h-auto mt-2">
             <p class="text-gray-700 mt-2">
               [Description of Project 1]
@@ -183,9 +183,9 @@
     </section>
     <!-- About section -->
     <!-- <section class="py-10 bg-image"> -->
-    <section class="about-section text-2x  font-bold mb- text-center">
-      <div class="container mx-auto">
-        <h2 class="text-2xl font-bold mb-4">About Me</h2>
+    <section class="  font-bold mb- text-center">
+      <div class="container mx-auto ">
+        <h2 class="text-2xl font-bold mb-5 py-5  text-red-600 ">About Me</h2>
         <p class="text-gray-700 font-bold mb-4" align="left">
           Name: Kak Ekay
         </p>
@@ -215,44 +215,37 @@
 
     <!-- Footer -->
 
+  <h2 class="text-2xl font-bold mb-5 py-5  text-blue-600 text-2x font-bold mb- text-center ">This is for our location </h2>
 
+  <div class="container mx-auto py-5">
+       
 
-    <section class="py-10 bg-gray-300">
-      <div class="container mx-auto text-center">
-
-        <h2 class="text-2xl font-bold text-black">Contact Me</h2>
-        <p class="text-black mt-4  text-2xl">
-          Phone Number: 010600261
-        </p>
-        <p class="text-blackwhite  text-2xl">
-          Telegram: @elaydev
-        </p>
-        <p class="text-black text-2xl ">
-          Gmail: kakelay18052002@gmail.com
-        </p>
-      </div>
-
-      <div class="map-container mt-10">
+      <!-- Map section -->
+      <div class="map-container">
         <div class="zoom-buttons">
           <button @click="zoomIn" class="zoom-button">Zoom In</button>
           <button @click="zoomOut" class="zoom-button">Zoom Out</button>
         </div>
-        <iframe ref="mapIframe" src="https://www.google.com/maps/embed?pb=..." width="100%" height="0" style="border:0;"
+        <iframe ref="mapIframe" src="https://www.google.com/maps/embed?pb=..." style="border:0; width: 100%; height: 100%;"
           allowfullscreen="" loading="lazy">
         </iframe>
       </div>
-       <footer class="bg-gray-300 py-4 text-center">
-       <h2 class="text-2xl font-bold mb-4 text-center">Develop by KakElay Company </h2>
-          <div class="flex justify-center">
-            <img
-              src="https://scontent.fpnh5-2.fna.fbcdn.net/v/t39.30808-6/373297621_705830021366607_2973753929437902708_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5614bc&_nc_ohc=jFLaIsrW4YAAX8Sbthv&_nc_ht=scontent.fpnh5-2.fna&oh=00_AfC3z-mgFTKMemC4P_b-lNy5yIeibgo1Ic_MkPAjLfuXmA&oe=64F41F23"
-              alt="Profile Image" class="w-32 h-32 rounded-full">
+      
+      <!-- Contact Me section -->
+      <div class="text-center mt-11 py-4">
+        
+        <h2 class="text-2xl font-bold text-black">Contact Me</h2>
+        <p class="text-black mt-4 text-2xl">Phone Number: 010600261</p>
+        <p class="text-blackwhite text-2xl">Telegram: @elaydev</p>
+       <p class="text-black text-2xl py-6">Gmail: kakelay18052002@gmail.com</p>
+          <p class="text-black text-2xl py-6">Develop by KakElay Company </p>
+         <div class="flex justify-center py-6">
+            <img 
+              src="https://avatars.githubusercontent.com/u/110383694?s=400&u=a8ea7df469099d3d9844bc30af0f56dd1e004b9a&v=4"
+              alt="Profile Image" class="w-32 h-32 rounded-full ">
           </div>
-         
-      </footer>
-
-    </section>
-
+      </div>
+    </div>
 
 
 
@@ -337,11 +330,18 @@ export default {
   height: 100%;
   top: 0%;
 }
+
 footer {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+
+.text-cyan-100 {
+    --tw-text-opacity: 1;
+    color: rgb(207 250 254 / var(--tw-text-opacity));
 }
 </style>
 
