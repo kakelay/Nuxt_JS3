@@ -12,7 +12,7 @@
           <div class="ml-4">
             <h1 class="text-3xl font-bold">KakElay</h1>
             <p class="text-lg mt-2 font-bold">
-              Flutter | Java | Spring Boot | Nuxt.js
+              Flutter | Java | Spring Boot | Nuxt.js | Node.js
             </p>
           </div>
         </div>
@@ -30,8 +30,10 @@
           />
         </div>
         <div class="text-center mt-4">
-          <h3 class="text-xl font-bold  text-centter">Kak Elay</h3>
-          <p class="text-gray-700">Flutter | Java | Spring Boot | Nuxt.js</p>
+          <h3 class="text-xl font-bold text-centter">Kak Elay</h3>
+          <p class="text-gray-700">
+            Flutter | Java | Spring Boot | Nuxt.js | Node.js
+          </p>
           <p class="text-gray-700">
             "It's going to be hard, but hard doesn't mean impossible."
           </p>
@@ -85,28 +87,24 @@
         <h2 class="text-2xl font-bold mb-4 text-center">My Projects</h2>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           <!-- Add project cards with project details -->
-
+          
           <div class="bg-gray-200 p-4 rounded-lg shadow-md">
             <h3 class="text-xl font-semibold">Project 1</h3>
             <img src="~/assets/images/khmer.png" alt="Discover Nuxt 3" />
             <p class="text-gray-700 mt-2">[Description of Project 1]</p>
           </div>
-           <div class="bg-gray-200 p-4 rounded-lg shadow-md">
-            <h3 class="text-xl font-semibold">Project 1</h3>
-            <img src="~/assets/images/khmer.png" alt="Discover Nuxt 3" />
-            <p class="text-gray-700 mt-2">[Description of Project 1]</p>
-          </div> <div class="bg-gray-200 p-4 rounded-lg shadow-md">
-            <h3 class="text-xl font-semibold">Project 1</h3>
-            <img src="~/assets/images/khmer.png" alt="Discover Nuxt 3" />
-            <p class="text-gray-700 mt-2">[Description of Project 1]</p>
-          </div>
-           <div class="bg-gray-200 p-4 rounded-lg shadow-md">
-            <h3 class="text-xl font-semibold">Project 1</h3>
+          <div class="bg-gray-200 p-4 rounded-lg shadow-md">
+            <h3 class="text-xl font-semibold">Project 2</h3>
             <img src="~/assets/images/khmer.png" alt="Discover Nuxt 3" />
             <p class="text-gray-700 mt-2">[Description of Project 1]</p>
           </div>
           <div class="bg-gray-200 p-4 rounded-lg shadow-md">
-            <h3 class="text-xl font-semibold">Project 1</h3>
+            <h3 class="text-xl font-semibold">Project 3</h3>
+            <img src="~/assets/images/khmer.png" alt="Discover Nuxt 3" />
+            <p class="text-gray-700 mt-2">[Description of Project 1]</p>
+          </div>
+          <div class="bg-gray-200 p-4 rounded-lg shadow-md">
+            <h3 class="text-xl font-semibold">Project 4</h3>
             <img
               src="https://avatars.githubusercontent.com/u/110383694?s=400&u=a8ea7df469099d3d9844bc30af0f56dd1e004b9a&v=4"
               alt="Project 1 Image"
